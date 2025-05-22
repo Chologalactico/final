@@ -13,7 +13,10 @@ Este repositorio contiene dos archivos principales: un script en JavaScript (`de
 
 ## 🚀 Requisitos
 
-Antes de ejecutar cualquiera de los archivos, asegúrate de haber instalado las dependencias del proyecto:
-
+Antes de ejecutar el archivos de delete.js, asegúrate de haber instalado las dependencias del proyecto:
 ```bash
 npm install
+```
+Despues de instalar las dependeciase ejecuta el proyecto con el comando:
+```bash
+node delete.js
